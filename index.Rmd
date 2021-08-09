@@ -1,0 +1,39 @@
+---
+title: "Meztli Matadamas"
+image: "mez.png"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/meztlimatadamas"
+  - label: Twitter
+    url: "https://twitter.com/MezMatadamas"
+  - label: GitHub
+    url: "https://github.com/Meztlimg"
+  - label: Email
+    url: "mailto:meztlimatadamas@gmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+I am a mexican researcher with expertise on systems biology and bioinformatics 
+applied to the study of human diseases, such as cancer. My research is focused
+on multi-omics data to find potential biomarkers and therapeutic targets. 
+My studies were held at UNAM, but now I have been selected to perform a
+postdoctoral position at University of Luxembourg. 
+
+## Education
+
+**Universidad Nacional Autónoma de México** | Mexico city, Mexico
+
+Ph.D. in Biomedical Sciences | January 2016 - June 2021
+
+**Universidad Nacional Autónoma de México** | Mexico city, Mexico
+
+B.S. in Genomic Sciences | August 2010 - September 2014
+
+## Experience
+
+**Novartis** | Next Generation Scientist Program | June 2019 - August 2019
+
+**Baylor College of Medicine** | Project Intern | August 2013 - July 2014
